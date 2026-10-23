@@ -1140,12 +1140,12 @@ export const PRODUCTS: Product[] = [
         label: "Craft",
         body:
           "Monumental in expression, L'Inconnu commands through elegance, texture and restraint — an enigmatic objet d'art conceived as a focal point. The metallic surfaces are layered by hand; every piece bears its own pattern of light.",
-        image: "/images/sculptures/Linconnu/Linconnu-craft.webp"
+        image: "/images/sculptures/Linconnu/Li1.webp"
       }
     ],
     pullQuote:
       "As instinct yields to consciousness, light becomes revelation.",
-    lifestyleImage: "/images/sculptures/Linconnu/Linconnu-presence.webp",
+    lifestyleImage: "/images/sculptures/Linconnu/Li1.webp",
     inspiration: {
       title: "The space between the visible and the unknown",
       reasons: [
